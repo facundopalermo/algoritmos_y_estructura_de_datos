@@ -1,0 +1,1 @@
+//11. Ingrese un texto carácter a carácter terminado en PUNTO contar cuantas palabras tienen más de una vez repetida la primera vocal que aparece en el texto.

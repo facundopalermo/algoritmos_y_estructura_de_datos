@@ -1,0 +1,1 @@
+//9. Leer un texto carácter a carácter terminado en PUNTO. Contar cuantas palabras comienzan con las mismas 2 letras de la palabra anterior.

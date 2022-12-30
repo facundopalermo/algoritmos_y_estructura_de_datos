@@ -1,0 +1,1 @@
+//15. Leer un texto carácter por carácter terminando en punto. Contar cuántas veces aparecen dos letras iguales. Mostrarlas intercalándoles el signo “=”.

@@ -1,0 +1,1 @@
+//17. Leer un texto carácter por carácter terminando en punto. Contar palabras terminadas en “n” y mostrarlas pasándolas al plural.

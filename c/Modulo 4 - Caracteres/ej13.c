@@ -1,0 +1,1 @@
+//13. Leer un texto carácter por carácter terminando en PUNTO y contar la cantidad de letras iguales a la primera distinta de blanco.
